@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+    
+
+    --color-blue: #6F9DE2;
+    --color-purple: #9871F3;
+    --color-danger: #F05D6c;
+
+    --colorgray-100: #DAE4F2;
+    --colorgray-200: #C8D0DA;
+    --colorgray-300: #95A1B1;
+    --colorgray-400: #6F7D90;
+    --colorgray-500: #2A313C;
+    --colorgray-600: #21252C;
+    --colorgray-700: #191D24;
+    --colorgray-800: #13161B;
+    --colorgray-900: #0F1216;
+
+    --font-heading: var(--font-oxanium);
+    --font-sans: var(--font--montserraat);
+    
+    --radius-xl: 0.625rem;
+}

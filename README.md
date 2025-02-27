@@ -20,8 +20,11 @@ Git
 
 ## 1️⃣ Clone o Repositório
 
-```git clone https://github.com/TavaresLuc/GestaoEscolar-Frontend.git
+```
+git clone https://github.com/TavaresLuc/GestaoEscolar-Frontend.git
+
 cd GestaoEscolar-Frontend
+cd .\web\ 
 ```
 
 # 2️⃣ Instale as Dependências
